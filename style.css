@@ -131,7 +131,6 @@ footer a:active{
        .value{
               width: 100vw;
               font-weight: 300;
-              
        }
        .color-value-container{
               justify-content: center;
@@ -142,7 +141,7 @@ footer a:active{
               margin-bottom: 1em;
        }
        .color{
-              height: 30vh;
+              height: 50vh;
        }
        form{
               flex-direction: column;
@@ -156,5 +155,8 @@ footer a:active{
        }
        .app-container{
               padding:2em;
+       }
+       body{
+              height: 100vh;
        }
 }
