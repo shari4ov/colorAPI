@@ -13,7 +13,9 @@ body{
        background-color: #f8f6f6;
        color: var(--fc-light);
        display: flex;
+       flex-direction: column;
        justify-content: center;
+       align-items: center;
        margin:0;
        height: 100vh;
 }
@@ -105,14 +107,10 @@ input[type="color"]{
        font-size: .9rem;
 }
 footer{
-       position: absolute;
-       bottom: 0;
-       display: flex;
-       
        font-size: 1.1rem;
 }
 footer p{
-       
+     
        color: var(--bg-dark)
 }
 footer a{
