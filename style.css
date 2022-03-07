@@ -152,6 +152,7 @@ footer a:active{
               padding: 2em;
        }
        body{
+              
               max-height: 100vh;
        }
        #scheme-select{
@@ -160,6 +161,7 @@ footer a:active{
               margin-bottom: 1em;
        }
        .app-container{
+              margin-top:2em;
               padding:2em;
        }
         
